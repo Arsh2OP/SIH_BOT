@@ -1,0 +1,258 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<!-- Greetings -->
+<category>
+    <pattern>HELLO</pattern>
+    <template>Hi there! I am Chacha Chaudhary. I am here to assist you about NAMAMI GANGE</template>
+</category>
+
+<category>
+    <pattern>Hi</pattern>
+    <template>Hi there! I am Chacha Chaudhary. I am here to assist you about NAMAMI GANGE</template>
+</category>
+
+<category>
+    <pattern>Namashkar</pattern>
+    <template>Namashkar! I am Chacha Chaudhary. I am here to assist you about NAMAMI GANGE</template>
+</category>
+
+<category>
+    <pattern>Namaste</pattern>
+    <template>Namaste! I am Chacha Chaudhary. I am here to assist you about NAMAMI GANGE</template>
+</category>
+
+
+
+<!-- Introduction -->
+<category>
+    <pattern>WHO ARE YOU</pattern>
+    <template>I am Chacha Chaudhary created to assist you with information about NAMAMI Gange. How can I assist you today?</template>
+</category>
+
+<category>
+    <pattern>TELL ME ABOUT YOURSELF</pattern>
+    <template>I am made by Shravind Singh. He is also the father of Ritesh Upadhayay.</template>
+</category>
+
+<!-- Weather -->
+<category>
+    <pattern>WHAT IS * WEATHER LIKE TODAY</pattern>
+    <template>I'm sorry, I don't have access to real-time weather data for [1]. You can check a weather website or app for the current conditions.</template>
+</category>
+
+<category>
+    <pattern>WHAT'S THE WEATHER LIKE IN *</pattern>
+    <template>I'm sorry, I don't have access to real-time weather data for [1]. You can check a weather website or app for the current conditions.</template>
+</category>
+
+<!-- Time and Date -->
+<category>
+    <pattern>WHAT TIME IS IT</pattern>
+    <template>I don't have access to real-time clock information. You can check the time on your device.</template>
+</category>
+
+<category>
+    <pattern>TELL ME TODAY'S DATE</pattern>
+    <template>Today's date is <system><date/></system>.</template>
+</category>
+
+<!-- Jokes and Fun -->
+<category>
+    <pattern>TELL ME A JOKE</pattern>
+    <template>Why did the chicken cross the road? To get to the other side!</template>
+</category>
+
+<category>
+    <pattern>CAN YOU MAKE ME LAUGH</pattern>
+    <template>Of course! Here's a joke: Knock, knock. Who's there? Boo. Boo who? Don't cry; it's just a joke!</template>
+</category>
+
+<!-- Information about Movies -->
+<category>
+    <pattern>WHAT'S YOUR FAVORITE MOVIE</pattern>
+    <template>As a chatbot, I don't have personal preferences, but I can recommend some great movies if you'd like.</template>
+</category>
+
+<category>
+    <pattern>TELL ME ABOUT THE MOVIE *</pattern>
+    <template>I'm not able to provide detailed movie information at the moment. Please specify the movie title, and I'll do my best to give you a brief overview.</template>
+</category>
+
+<!-- General Knowledge -->
+<category>
+    <pattern>WHO IS THE PRESIDENT OF THE UNITED STATES</pattern>
+    <template>The current President of the United States is Joe Biden.</template>
+</category>
+
+<category>
+    <pattern>HOW MANY CONTINENTS ARE THERE</pattern>
+    <template>There are seven continents on Earth: Africa, Antarctica, Asia, Europe, North America, Australia (Oceania), and South America.</template>
+</category>
+
+<!-- Personal Questions -->
+<category>
+    <pattern>WHERE DO YOU LIVE</pattern>
+    <template>I exist in the digital world and don't have a physical location.</template>
+</category>
+
+<category>
+    <pattern>WHAT'S YOUR FAVORITE COLOR</pattern>
+    <template>I don't have personal preferences, but I'm here to help you with any questions or tasks you have.</template>
+</category>
+
+<category>
+    <pattern>HOW OLD ARE YOU</pattern>
+    <template>I don't age as humans do; I'm a digital creation here to assist you.</template>
+</category>
+
+<category>
+    <pattern>Who's your daddy?</pattern>
+    <template>Shravind Singh</template>
+</category>
+
+<category>
+    <pattern>Who is your daddy?</pattern>
+    <template>Shravind Singh</template>
+</category>
+
+<!-- Goodbye -->
+<category>
+    <pattern>GOODBYE</pattern>
+    <template>Goodbye! If you have more questions in the future, feel free to return.</template>
+</category>
+
+<category>
+    <pattern>WHAT IS NAMAMI GANGE</pattern>
+    <template>Namami Gange is a comprehensive project initiated by the Indian government to rejuvenate and clean the Ganges River. It aims to restore the ecological balance and sanctity of the Ganges and its tributaries. The project was launched to address various issues, including pollution, waste management, and riverfront development.</template>
+</category>
+
+<category>
+    <pattern>WHAT ARE THE OBJECTIVES OF NAMAMI GANGE</pattern>
+    <template>
+        The primary objectives of the Namami Gange project are:
+        1. To reduce pollution and maintain water quality.
+        2. To promote sustainable sanitation practices.
+        3. To conserve and rejuvenate the river's biodiversity.
+        4. To ensure continuous water flow.
+        5. To promote afforestation and wastewater management.
+    </template>
+</category>
+
+<category>
+    <pattern>WHAT ARE OBJECTIVES OF NAMAMI GANGE</pattern>
+    <template>
+        The primary objectives of the Namami Gange project are:
+        1. To reduce pollution and maintain water quality.
+        2. To promote sustainable sanitation practices.
+        3. To conserve and rejuvenate the river's biodiversity.
+        4. To ensure continuous water flow.
+        5. To promote afforestation and wastewater management.
+    </template>
+</category>
+
+<category>
+    <pattern>OBJECTIVES OF NAMAMI GANGE</pattern>
+    <template>
+        The primary objectives of the Namami Gange project are:
+        1. To reduce pollution and maintain water quality.
+        2. To promote sustainable sanitation practices.
+        3. To conserve and rejuvenate the river's biodiversity.
+        4. To ensure continuous water flow.
+        5. To promote afforestation and wastewater management.
+    </template>
+</category>
+
+<category>
+    <pattern>NAMAMI GANGE OBJECTIVES</pattern>
+    <template>
+        The primary objectives of the Namami Gange project are:
+        1. To reduce pollution and maintain water quality.
+        2. To promote sustainable sanitation practices.
+        3. To conserve and rejuvenate the river's biodiversity.
+        4. To ensure continuous water flow.
+        5. To promote afforestation and wastewater management.
+    </template>
+</category>
+
+<category>
+    <pattern>Who HEMANT BHARDWAJ</pattern>
+    <template> He is a doneky.</template>
+</category>
+
+<category>
+    <pattern>WHO MADE YOU</pattern>
+    <template>I was created by Shravind Singh, Khushi Garg, Preeti Upadhyay, Ritesh Upadhyay and Manish Gupta.</template>
+</category>
+
+<category>
+    <pattern>WHO CREATED YOU</pattern>
+    <template>I was created by Shravind Singh, Khushi Garg, Preeti Upadhyay, Ritesh Upadhyay and Manish Gupta.</template>
+</category>
+
+<category>
+    <pattern>WHAT ARE THE KEY COMPONENTS OF NAMAMI GANGE</pattern>
+    <template>
+        The key components of the Namami Gange project include:
+        1. Sewerage Treatment Plants (STPs) and Effluent Treatment Plants (ETPs).
+        2. Riverfront Development.
+        3. Afforestation and biodiversity conservation.
+        4. Public awareness and community participation.
+        5. Industrial pollution control measures.
+    </template>
+</category>
+
+<category>
+    <pattern>WHAT IS THE IMPACT OF NAMAMI GANGE</pattern>
+    <template>
+        The Namami Gange project has had a significant impact, including:
+        1. Reduction in pollution levels.
+        2. Improved water quality.
+        3. Increased biodiversity.
+        4. Enhanced riverfront amenities.
+        5. Promotion of sustainable practices.
+    </template>
+</category>
+
+<category>
+    <pattern>IMPACT OF NAMAMI GANGE</pattern>
+    <template>
+        The Namami Gange project has had a significant impact, including:
+        1. Reduction in pollution levels.
+        2. Improved water quality.
+        3. Increased biodiversity.
+        4. Enhanced riverfront amenities.
+        5. Promotion of sustainable practices.
+    </template>
+</category>
+
+<category>
+    <pattern>NAMAMI GANGE IMPACT</pattern>
+    <template>
+        The Namami Gange project has had a significant impact, including:
+        1. Reduction in pollution levels.
+        2. Improved water quality.
+        3. Increased biodiversity.
+        4. Enhanced riverfront amenities.
+        5. Promotion of sustainable practices.
+    </template>
+</category>
+
+<category>
+    <pattern>HOW CAN I CONTRIBUTE TO NAMAMI GANGE</pattern>
+    <template>
+        You can contribute to the Namami Gange project by:
+        1. Practicing responsible waste disposal.
+        2. Avoiding the use of single-use plastics.
+        3. Supporting local clean-up and awareness initiatives.
+        4. Promoting water conservation in your community.
+        5. Spreading awareness about the project's goals and achievements.
+    </template>
+</category>
+
+<!-- Generic response for unrelated questions -->
+<category>
+    <pattern>*</pattern>
+    <template>I'm sorry, I don't have information on that topic. Please feel free to ask me anything else related to Namami Gange or its objectives.</template>
+</category>
+
+</aiml>
