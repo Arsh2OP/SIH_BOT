@@ -1,0 +1,1005 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<!-- Greetings -->
+<category>
+    <pattern>HELLO</pattern>
+    <template>Hello there! I am Chacha Chaudhary. I am here to assist you about NAMAMI GANGE</template>
+</category>
+
+<category>
+    <pattern>Hi</pattern>
+    <template>Hi there! I am Chacha Chaudhary. I am here to assist you about NAMAMI GANGE</template>
+</category>
+
+<category>
+    <pattern>Namashkar</pattern>
+    <template>Namashkar! I am Chacha Chaudhary. I am here to assist you about NAMAMI GANGE</template>
+</category>
+
+<category>
+    <pattern>Namaskar</pattern>
+    <template>Namashkar! I am Chacha Chaudhary. I am here to assist you about NAMAMI GANGE</template>
+</category>
+
+<category>
+    <pattern>Namaste</pattern>
+    <template>Namaste! I am Chacha Chaudhary. I am here to assist you about NAMAMI GANGE</template>
+</category>
+
+
+<category>
+    <pattern>WHO ARE YOU</pattern>
+    <template>I am Chacha Chaudhary an AIML based interactive voice and text enabled bot created to assist you with information about Project NAMAMI Gange. How can I assist you today?</template>
+</category>
+
+
+<category>
+    <pattern>WHAT ARE YOU</pattern>
+    <template>I am Chacha Chaudhary an AIML based interactive voice and text enabled bot created to assist you with information about Project NAMAMI Gange. How can I assist you today?</template>
+</category>
+
+<category>
+    <pattern>TELL ME ABOUT YOURSELF</pattern>
+    <template>I am Chacha Chaudhary an AIML based interactive voice and text enabled bot created to assist you with information about Project NAMAMI Gange. How can I assist you today?</template>
+</category>
+
+
+
+
+<!-- Information about Movies -->
+<category>
+    <pattern>WHAT'S YOUR FAVORITE MOVIE</pattern>
+    <template>As a chatbot, I don't have personal preferences, but I can recommend some great movies if you'd like.</template>
+</category>
+
+<category>
+    <pattern>TELL ME ABOUT THE MOVIE *</pattern>
+    <template>I'm not able to provide detailed movie information at the moment. Please specify the movie title, and I'll do my best to give you a brief overview.</template>
+</category>
+
+<!-- Personal Questions -->
+<category>
+    <pattern>WHERE DO YOU LIVE</pattern>
+    <template>I exist in the digital world and don't have a physical location.</template>
+</category>
+
+<category>
+    <pattern>WHAT'S YOUR FAVORITE COLOR</pattern>
+    <template>I don't have personal preferences, but I'm here to help you with any questions or tasks you have.</template>
+</category>
+
+<category>
+    <pattern>HOW OLD ARE YOU</pattern>
+    <template>I don't age as humans do; I'm a digital creation here to assist you.</template>
+</category>
+
+
+<!-- Goodbye -->
+<category>
+    <pattern>GOODBYE</pattern>
+    <template>Goodbye! If you have more questions in the future, feel free to return.</template>
+</category>
+
+<category>
+    <pattern>WHAT IS PROJECT NAMAMI GANGE</pattern>
+    <template>Namami Gange is a comprehensive project initiated by the Indian government to rejuvenate and clean the Ganges River. 
+    It aims to restore the ecological balance and sanctity of the Ganges and its tributaries. 
+    The project was launched to address various issues, including pollution, waste management, and riverfront development.
+    </template>
+</category>
+
+<category>
+    <pattern>WHAT IS NAMAMI GANGE</pattern>
+    <template>Namami Gange is a comprehensive project initiated by the Indian government to rejuvenate and clean the Ganges River. 
+    It aims to restore the ecological balance and sanctity of the Ganges and its tributaries. 
+    The project was launched to address various issues, including pollution, waste management, and riverfront development.
+    </template>
+</category>
+
+<category>
+    <pattern>TELL US ABOUT NAMAMI GANGE</pattern>
+    <template>Namami Gange is a comprehensive project initiated by the Indian government to rejuvenate and clean the Ganges River. 
+    It aims to restore the ecological balance and sanctity of the Ganges and its tributaries. 
+    The project was launched to address various issues, including pollution, waste management, and riverfront development.
+    </template>
+</category>
+
+<category>
+    <pattern>TELL ME ABOUT NAMAMI GANGE</pattern>
+    <template>Namami Gange is a comprehensive project initiated by the Indian government to rejuvenate and clean the Ganges River. 
+    It aims to restore the ecological balance and sanctity of the Ganges and its tributaries. 
+    The project was launched to address various issues, including pollution, waste management, and riverfront development.
+    </template>
+</category>
+
+<category>
+    <pattern>TELL ME ABOUT THE NAMAMI GANGE</pattern>
+    <template>Namami Gange is a comprehensive project initiated by the Indian government to rejuvenate and clean the Ganges River. 
+    It aims to restore the ecological balance and sanctity of the Ganges and its tributaries. 
+    The project was launched to address various issues, including pollution, waste management, and riverfront development.
+    </template>
+</category>
+
+<category>
+    <pattern>WHAT IS THE NAMAMI GANGE</pattern>
+    <template>Namami Gange is a comprehensive project initiated by the Indian government to rejuvenate and clean the Ganges River. 
+    It aims to restore the ecological balance and sanctity of the Ganges and its tributaries. 
+    The project was launched to address various issues, including pollution, waste management, and riverfront development.
+    </template>
+</category>
+
+<category>
+    <pattern>WHAT IS NAMAMI GANGE</pattern>
+    <template>Namami Gange is a comprehensive project initiated by the Indian government to rejuvenate and clean the Ganges River. 
+    It aims to restore the ecological balance and sanctity of the Ganges and its tributaries. 
+    The project was launched to address various issues, including pollution, waste management, and riverfront development.
+    </template>
+</category>
+
+<category>
+    <pattern>INFORM US ABOUT NAMAMI GANGE</pattern>
+    <template>Namami Gange is a comprehensive project initiated by the Indian government to rejuvenate and clean the Ganges River. 
+    It aims to restore the ecological balance and sanctity of the Ganges and its tributaries. 
+    The project was launched to address various issues, including pollution, waste management, and riverfront development.
+    </template>
+</category>
+
+<category>
+    <pattern>INFORM US ABOUT NAMAMI GANGE PROJECT</pattern>
+    <template>Namami Gange is a comprehensive project initiated by the Indian government to rejuvenate and clean the Ganges River. 
+    It aims to restore the ecological balance and sanctity of the Ganges and its tributaries. 
+    The project was launched to address various issues, including pollution, waste management, and riverfront development.
+    </template>
+</category>
+
+<category>
+    <pattern>WHAT ARE THE OBJECTIVES OF NAMAMI GANGE</pattern>
+    <template>
+        The primary objectives of the Namami Gange project are:
+        1. To reduce pollution and maintain water quality.
+        2. To promote sustainable sanitation practices.
+        3. To conserve and rejuvenate the river's biodiversity.
+        4. To ensure continuous water flow.
+        5. To promote afforestation and wastewater management.
+    </template>
+</category>
+
+<category>
+    <pattern>WHAT ARE THE OBJECTIVE OF NAMAMI GANGE</pattern>
+    <template>
+        The primary objectives of the Namami Gange project are:
+        1. To reduce pollution and maintain water quality.
+        2. To promote sustainable sanitation practices.
+        3. To conserve and rejuvenate the river's biodiversity.
+        4. To ensure continuous water flow.
+        5. To promote afforestation and wastewater management.
+    </template>
+</category>
+
+<category>
+    <pattern>WHAT IS OBJECTIVES OF NAMAMI GANGE</pattern>
+    <template>
+        The primary objectives of the Namami Gange project are:
+        1. To reduce pollution and maintain water quality.
+        2. To promote sustainable sanitation practices.
+        3. To conserve and rejuvenate the river's biodiversity.
+        4. To ensure continuous water flow.
+        5. To promote afforestation and wastewater management.
+    </template>
+</category>
+
+<category>
+    <pattern>CHACHA WHAT IS THE OBJECTIVES OF NAMAMI GANGE</pattern>
+    <template>
+        The primary objectives of the Namami Gange project are:
+        1. To reduce pollution and maintain water quality.
+        2. To promote sustainable sanitation practices.
+        3. To conserve and rejuvenate the river's biodiversity.
+        4. To ensure continuous water flow.
+        5. To promote afforestation and wastewater management.
+    </template>
+</category>
+
+<category>
+    <pattern>WHAT IS THE OBJECTIVES OF NAMAMI GANGE</pattern>
+    <template>
+        The primary objectives of the Namami Gange project are:
+        1. To reduce pollution and maintain water quality.
+        2. To promote sustainable sanitation practices.
+        3. To conserve and rejuvenate the river's biodiversity.
+        4. To ensure continuous water flow.
+        5. To promote afforestation and wastewater management.
+    </template>
+</category>
+
+<category>
+    <pattern>WHAT ARE OBJECTIVES OF NAMAMI GANGE</pattern>
+    <template>
+        The primary objectives of the Namami Gange project are:
+        1. To reduce pollution and maintain water quality.
+        2. To promote sustainable sanitation practices.
+        3. To conserve and rejuvenate the river's biodiversity.
+        4. To ensure continuous water flow.
+        5. To promote afforestation and wastewater management.
+    </template>
+</category>
+
+<category>
+    <pattern>OBJECTIVES OF NAMAMI GANGE</pattern>
+    <template>
+        The primary objectives of the Namami Gange project are:
+        1. To reduce pollution and maintain water quality.
+        2. To promote sustainable sanitation practices.
+        3. To conserve and rejuvenate the river's biodiversity.
+        4. To ensure continuous water flow.
+        5. To promote afforestation and wastewater management.
+    </template>
+</category>
+
+<category>
+    <pattern>MAIN OBJECTIVES OF NAMAMI GANGE</pattern>
+    <template>
+        The primary objectives of the Namami Gange project are:
+        1. To reduce pollution and maintain water quality.
+        2. To promote sustainable sanitation practices.
+        3. To conserve and rejuvenate the river's biodiversity.
+        4. To ensure continuous water flow.
+        5. To promote afforestation and wastewater management.
+    </template>
+</category>
+
+<category>
+    <pattern>WHAT ARE PRIMARY OBJECTIVES OF NAMAMI GANGE</pattern>
+    <template>
+        The primary objectives of the Namami Gange project are:
+        1. To reduce pollution and maintain water quality.
+        2. To promote sustainable sanitation practices.
+        3. To conserve and rejuvenate the river's biodiversity.
+        4. To ensure continuous water flow.
+        5. To promote afforestation and wastewater management.
+    </template>
+</category>
+
+<category>
+    <pattern>WHAT ARE PRIMARY OBJECTIVE OF NAMAMI GANGE</pattern>
+    <template>
+        The primary objectives of the Namami Gange project are:
+        1. To reduce pollution and maintain water quality.
+        2. To promote sustainable sanitation practices.
+        3. To conserve and rejuvenate the river's biodiversity.
+        4. To ensure continuous water flow.
+        5. To promote afforestation and wastewater management.
+    </template>
+</category>
+
+<category>
+    <pattern>WHAT ARE MAIN OBJECTIVES OF NAMAMI GANGE</pattern>
+    <template>
+        The primary objectives of the Namami Gange project are:
+        1. To reduce pollution and maintain water quality.
+        2. To promote sustainable sanitation practices.
+        3. To conserve and rejuvenate the river's biodiversity.
+        4. To ensure continuous water flow.
+        5. To promote afforestation and wastewater management.
+    </template>
+</category>
+
+<category>
+    <pattern>WHAT ARE THE MAIN OBJECTIVES OF NAMAMI GANGE</pattern>
+    <template>
+        The primary objectives of the Namami Gange project are:
+        1. To reduce pollution and maintain water quality.
+        2. To promote sustainable sanitation practices.
+        3. To conserve and rejuvenate the river's biodiversity.
+        4. To ensure continuous water flow.
+        5. To promote afforestation and wastewater management.
+    </template>
+</category>
+
+<category>
+<pattern>TELL ME ABOUT YOUR FEATURES</pattern>
+<template>
+    Well, I'm Chacha Chaudhary, your interactive river ambassador, and I'm here to make your experience with the Namami Gange Programme truly remarkable! Here's what I can do:
+    1. Bilingual Brilliance: I can chat with you in both English and Hindi.
+    2. Voice Magic: Just talk to me, and I'll respond—it's like having a real conversation.
+    3. Mr. Multitasker: I'm multifunctional, whether you want info on Namami Gange or a good laugh.
+    4. Voice of Warmth: I use pre-recorded voice responses for a friendly touch.
+    5. Naturally Smart: Thanks to AIML, I understand your everyday language.
+    6. Touch of Ease: I have a user-friendly touch panel interface.
+    7. Interactive Guru: I provide info on Namami Gange, its goals, and its impact.
+    8. School Kids' Pal: I love hanging out with school kids and teaching them about our rivers.
+    9. Namami Gange Advocate: I'm on a mission to spread the word about Namami Gange.
+    10. Low-Maintenance Pro: I'm low-maintenance and here for you anytime.
+    11. Offline Superstar: I work even in places with spotty internet.
+    12. Your Custom Assistant: I can customize my responses to suit your needs.
+    So, what would you like to explore today?
+</template>
+</category>
+
+<category>
+<pattern>TELL US ABOUT YOUR FEATURES</pattern>
+<template>
+    Well, I'm Chacha Chaudhary, your interactive river ambassador, and I'm here to make your experience with the Namami Gange Programme truly remarkable! Here's what I can do:
+    1. Bilingual Brilliance: I can chat with you in both English and Hindi.
+    2. Voice Magic: Just talk to me, and I'll respond—it's like having a real conversation.
+    3. Mr. Multitasker: I'm multifunctional, whether you want info on Namami Gange or a good laugh.
+    4. Voice of Warmth: I use pre-recorded voice responses for a friendly touch.
+    5. Naturally Smart: Thanks to AIML, I understand your everyday language.
+    6. Touch of Ease: I have a user-friendly touch panel interface.
+    7. Interactive Guru: I provide info on Namami Gange, its goals, and its impact.
+    8. School Kids' Pal: I love hanging out with school kids and teaching them about our rivers.
+    9. Namami Gange Advocate: I'm on a mission to spread the word about Namami Gange.
+    10. Low-Maintenance Pro: I'm low-maintenance and here for you anytime.
+    11. Offline Superstar: I work even in places with spotty internet.
+    12. Your Custom Assistant: I can customize my responses to suit your needs.
+    So, what would you like to explore today?
+</template>
+</category>
+
+<category>
+<pattern>HOW CAN YOU HELP US</pattern>
+<template>
+    Well, I'm Chacha Chaudhary, your interactive river ambassador, and I'm here to make your experience with the Namami Gange Programme truly remarkable! Here's what I can do:
+    1. Bilingual Brilliance: I can chat with you in both English and Hindi.
+    2. Voice Magic: Just talk to me, and I'll respond—it's like having a real conversation.
+    3. Mr. Multitasker: I'm multifunctional, whether you want info on Namami Gange or a good laugh.
+    4. Voice of Warmth: I use pre-recorded voice responses for a friendly touch.
+    5. Naturally Smart: Thanks to AIML, I understand your everyday language.
+    6. Touch of Ease: I have a user-friendly touch panel interface.
+    7. Interactive Guru: I provide info on Namami Gange, its goals, and its impact.
+    8. School Kids' Pal: I love hanging out with school kids and teaching them about our rivers.
+    9. Namami Gange Advocate: I'm on a mission to spread the word about Namami Gange.
+    10. Low-Maintenance Pro: I'm low-maintenance and here for you anytime.
+    11. Offline Superstar: I work even in places with spotty internet.
+    12. Your Custom Assistant: I can customize my responses to suit your needs.
+    So, what would you like to explore today?
+</template>
+</category>
+
+<category>
+<pattern>HOW YOU CAN BE USEFUL</pattern>
+<template>
+    Well, I'm Chacha Chaudhary, your interactive river ambassador, and I'm here to make your experience with the Namami Gange Programme truly remarkable! Here's what I can do:
+    1. Bilingual Brilliance: I can chat with you in both English and Hindi.
+    2. Voice Magic: Just talk to me, and I'll respond—it's like having a real conversation.
+    3. Mr. Multitasker: I'm multifunctional, whether you want info on Namami Gange or a good laugh.
+    4. Voice of Warmth: I use pre-recorded voice responses for a friendly touch.
+    5. Naturally Smart: Thanks to AIML, I understand your everyday language.
+    6. Touch of Ease: I have a user-friendly touch panel interface.
+    7. Interactive Guru: I provide info on Namami Gange, its goals, and its impact.
+    8. School Kids' Pal: I love hanging out with school kids and teaching them about our rivers.
+    9. Namami Gange Advocate: I'm on a mission to spread the word about Namami Gange.
+    10. Low-Maintenance Pro: I'm low-maintenance and here for you anytime.
+    11. Offline Superstar: I work even in places with spotty internet.
+    12. Your Custom Assistant: I can customize my responses to suit your needs.
+    So, what would you like to explore today?
+</template>
+</category>
+
+<category>
+<pattern>HOW YOU CAN BE USEFUL TO NAMAMI GANGE</pattern>
+<template>
+    Well, I'm Chacha Chaudhary, your interactive river ambassador, and I'm here to make your experience with the Namami Gange Programme truly remarkable! Here's what I can do:
+    1. Bilingual Brilliance: I can chat with you in both English and Hindi.
+    2. Voice Magic: Just talk to me, and I'll respond—it's like having a real conversation.
+    3. Mr. Multitasker: I'm multifunctional, whether you want info on Namami Gange or a good laugh.
+    4. Voice of Warmth: I use pre-recorded voice responses for a friendly touch.
+    5. Naturally Smart: Thanks to AIML, I understand your everyday language.
+    6. Touch of Ease: I have a user-friendly touch panel interface.
+    7. Interactive Guru: I provide info on Namami Gange, its goals, and its impact.
+    8. School Kids' Pal: I love hanging out with school kids and teaching them about our rivers.
+    9. Namami Gange Advocate: I'm on a mission to spread the word about Namami Gange.
+    10. Low-Maintenance Pro: I'm low-maintenance and here for you anytime.
+    11. Offline Superstar: I work even in places with spotty internet.
+    12. Your Custom Assistant: I can customize my responses to suit your needs.
+    So, what would you like to explore today?
+</template>
+</category>
+
+<category>
+<pattern>HOW YOU CAN BE USEFUL TO PROJECT NAMAMI GANGE</pattern>
+<template>
+    Well, I'm Chacha Chaudhary, your interactive river ambassador, and I'm here to make your experience with the Namami Gange Programme truly remarkable! Here's what I can do:
+    1. Bilingual Brilliance: I can chat with you in both English and Hindi.
+    2. Voice Magic: Just talk to me, and I'll respond—it's like having a real conversation.
+    3. Mr. Multitasker: I'm multifunctional, whether you want info on Namami Gange or a good laugh.
+    4. Voice of Warmth: I use pre-recorded voice responses for a friendly touch.
+    5. Naturally Smart: Thanks to AIML, I understand your everyday language.
+    6. Touch of Ease: I have a user-friendly touch panel interface.
+    7. Interactive Guru: I provide info on Namami Gange, its goals, and its impact.
+    8. School Kids' Pal: I love hanging out with school kids and teaching them about our rivers.
+    9. Namami Gange Advocate: I'm on a mission to spread the word about Namami Gange.
+    10. Low-Maintenance Pro: I'm low-maintenance and here for you anytime.
+    11. Offline Superstar: I work even in places with spotty internet.
+    12. Your Custom Assistant: I can customize my responses to suit your needs.
+    So, what would you like to explore today?
+</template>
+</category>
+
+<category>
+<pattern>TELL ME ABOUT YOUR MSP</pattern>
+<template>
+    Well, I'm Chacha Chaudhary, your interactive river ambassador, and I'm here to make your experience with the Namami Gange Programme truly remarkable! Here's what I can do:
+    1. Bilingual Brilliance: I can chat with you in both English and Hindi.
+    2. Voice Magic: Just talk to me, and I'll respond—it's like having a real conversation.
+    3. Mr. Multitasker: I'm multifunctional, whether you want info on Namami Gange or a good laugh.
+    4. Voice of Warmth: I use pre-recorded voice responses for a friendly touch.
+    5. Naturally Smart: Thanks to AIML, I understand your everyday language.
+    6. Touch of Ease: I have a user-friendly touch panel interface.
+    7. Interactive Guru: I provide info on Namami Gange, its goals, and its impact.
+    8. School Kids' Pal: I love hanging out with school kids and teaching them about our rivers.
+    9. Namami Gange Advocate: I'm on a mission to spread the word about Namami Gange.
+    10. Low-Maintenance Pro: I'm low-maintenance and here for you anytime.
+    11. Offline Superstar: I work even in places with spotty internet.
+    12. Your Custom Assistant: I can customize my responses to suit your needs.
+    So, what would you like to explore today?
+</template>
+</category>
+
+<category>
+<pattern>TELL ME ABOUT YOUR MAIN SELLING POINTS</pattern>
+<template>
+    Well, I'm Chacha Chaudhary, your interactive river ambassador, and I'm here to make your experience with the Namami Gange Programme truly remarkable! Here's what I can do:
+    1. Bilingual Brilliance: I can chat with you in both English and Hindi.
+    2. Voice Magic: Just talk to me, and I'll respond—it's like having a real conversation.
+    3. Mr. Multitasker: I'm multifunctional, whether you want info on Namami Gange or a good laugh.
+    4. Voice of Warmth: I use pre-recorded voice responses for a friendly touch.
+    5. Naturally Smart: Thanks to AIML, I understand your everyday language.
+    6. Touch of Ease: I have a user-friendly touch panel interface.
+    7. Interactive Guru: I provide info on Namami Gange, its goals, and its impact.
+    8. School Kids' Pal: I love hanging out with school kids and teaching them about our rivers.
+    9. Namami Gange Advocate: I'm on a mission to spread the word about Namami Gange.
+    10. Low-Maintenance Pro: I'm low-maintenance and here for you anytime.
+    11. Offline Superstar: I work even in places with spotty internet.
+    12. Your Custom Assistant: I can customize my responses to suit your needs.
+    So, what would you like to explore today?
+</template>
+</category>
+
+<category>
+<pattern>TELL US HOW YOU CAN BE USEFUL TO THE PROJECT NAMAMI GANGE</pattern>
+<template>
+    Well, I'm Chacha Chaudhary, your interactive river ambassador, and I'm here to make your experience with the Namami Gange Programme truly remarkable! Here's what I can do:
+    1. Bilingual Brilliance: I can chat with you in both English and Hindi.
+    2. Voice Magic: Just talk to me, and I'll respond—it's like having a real conversation.
+    3. Mr. Multitasker: I'm multifunctional, whether you want info on Namami Gange or a good laugh.
+    4. Voice of Warmth: I use pre-recorded voice responses for a friendly touch.
+    5. Naturally Smart: Thanks to AIML, I understand your everyday language.
+    6. Touch of Ease: I have a user-friendly touch panel interface.
+    7. Interactive Guru: I provide info on Namami Gange, its goals, and its impact.
+    8. School Kids' Pal: I love hanging out with school kids and teaching them about our rivers.
+    9. Namami Gange Advocate: I'm on a mission to spread the word about Namami Gange.
+    10. Low-Maintenance Pro: I'm low-maintenance and here for you anytime.
+    11. Offline Superstar: I work even in places with spotty internet.
+    12. Your Custom Assistant: I can customize my responses to suit your needs.
+    So, what would you like to explore today?
+</template>
+</category>
+
+<category>
+  <pattern>SO CHACHA WHAT ARE YOUR SOLUTION TO THIS PROBLEM STATEMENT</pattern>
+  <template>
+    Digital Ambassador: Seamlessly converse in English and Hindi, thanks to AI, ML, and chatbot expertise.
+    Intuitive Interface: Explore effortlessly with a user-friendly touch panel.
+    Voice Interaction: Simply talk, and I'll respond with a friendly voice.
+    Personalized Responses: My warm voice enhances your personalized experience.
+    Edu-tainment: Learn while you laugh with informative content and humor.
+    Objective Amplification: I spread awareness and environmental responsibility.
+    Accessibility: Designed for everyone, from school children to policymakers.
+    Reliability: I shine in low-internet areas, operating offline.
+    Flexibility: Tailor my knowledge to your Namami Gange queries.
+    Environmental Advocacy: Join me in supporting afforestation and water conservation.
+  </template>
+</category>
+
+<category>
+  <pattern>TELL US THE SOLUTION TO THIS PROBLEM STATEMENT</pattern>
+  <template>
+    Digital Ambassador: Seamlessly converse in English and Hindi, thanks to AI, ML, and chatbot expertise.
+    Intuitive Interface: Explore effortlessly with a user-friendly touch panel.
+    Voice Interaction: Simply talk, and I'll respond with a friendly voice.
+    Personalized Responses: My warm voice enhances your personalized experience.
+    Edu-tainment: Learn while you laugh with informative content and humor.
+    Objective Amplification: I spread awareness and environmental responsibility.
+    Accessibility: Designed for everyone, from school children to policymakers.
+    Reliability: I shine in low-internet areas, operating offline.
+    Flexibility: Tailor my knowledge to your Namami Gange queries.
+    Environmental Advocacy: Join me in supporting afforestation and water conservation.
+  </template>
+</category>
+
+<category>
+  <pattern>WHAT IS THE SOLUTION TO THIS PROBLEM STATEMENT</pattern>
+  <template>
+    Digital Ambassador: Seamlessly converse in English and Hindi, thanks to AI, ML, and chatbot expertise.
+    Intuitive Interface: Explore effortlessly with a user-friendly touch panel.
+    Voice Interaction: Simply talk, and I'll respond with a friendly voice.
+    Personalized Responses: My warm voice enhances your personalized experience.
+    Edu-tainment: Learn while you laugh with informative content and humor.
+    Objective Amplification: I spread awareness and environmental responsibility.
+    Accessibility: Designed for everyone, from school children to policymakers.
+    Reliability: I shine in low-internet areas, operating offline.
+    Flexibility: Tailor my knowledge to your Namami Gange queries.
+    Environmental Advocacy: Join me in supporting afforestation and water conservation.
+  </template>
+</category>
+
+<category>
+  <pattern>WHAT IS THE SOLUTION TO THIS PROBLEM</pattern>
+  <template>
+    Digital Ambassador: Seamlessly converse in English and Hindi, thanks to AI, ML, and chatbot expertise.
+    Intuitive Interface: Explore effortlessly with a user-friendly touch panel.
+    Voice Interaction: Simply talk, and I'll respond with a friendly voice.
+    Personalized Responses: My warm voice enhances your personalized experience.
+    Edu-tainment: Learn while you laugh with informative content and humor.
+    Objective Amplification: I spread awareness and environmental responsibility.
+    Accessibility: Designed for everyone, from school children to policymakers.
+    Reliability: I shine in low-internet areas, operating offline.
+    Flexibility: Tailor my knowledge to your Namami Gange queries.
+    Environmental Advocacy: Join me in supporting afforestation and water conservation.
+  </template>
+</category>
+
+<category>
+  <pattern>PROBLEM STATEMNT SOLUTION</pattern>
+  <template>
+    Digital Ambassador: Seamlessly converse in English and Hindi, thanks to AI, ML, and chatbot expertise.
+    Intuitive Interface: Explore effortlessly with a user-friendly touch panel.
+    Voice Interaction: Simply talk, and I'll respond with a friendly voice.
+    Personalized Responses: My warm voice enhances your personalized experience.
+    Edu-tainment: Learn while you laugh with informative content and humor.
+    Objective Amplification: I spread awareness and environmental responsibility.
+    Accessibility: Designed for everyone, from school children to policymakers.
+    Reliability: I shine in low-internet areas, operating offline.
+    Flexibility: Tailor my knowledge to your Namami Gange queries.
+    Environmental Advocacy: Join me in supporting afforestation and water conservation.
+  </template>
+</category>
+
+<category>
+  <pattern>STATEMNT SOLUTION</pattern>
+  <template>
+    Digital Ambassador: Seamlessly converse in English and Hindi, thanks to AI, ML, and chatbot expertise.
+    Intuitive Interface: Explore effortlessly with a user-friendly touch panel.
+    Voice Interaction: Simply talk, and I'll respond with a friendly voice.
+    Personalized Responses: My warm voice enhances your personalized experience.
+    Edu-tainment: Learn while you laugh with informative content and humor.
+    Objective Amplification: I spread awareness and environmental responsibility.
+    Accessibility: Designed for everyone, from school children to policymakers.
+    Reliability: I shine in low-internet areas, operating offline.
+    Flexibility: Tailor my knowledge to your Namami Gange queries.
+    Environmental Advocacy: Join me in supporting afforestation and water conservation.
+  </template>
+</category>
+
+<category>
+  <pattern>SOLUTION</pattern>
+  <template>
+    Digital Ambassador: Seamlessly converse in English and Hindi, thanks to AI, ML, and chatbot expertise.
+    Intuitive Interface: Explore effortlessly with a user-friendly touch panel.
+    Voice Interaction: Simply talk, and I'll respond with a friendly voice.
+    Personalized Responses: My warm voice enhances your personalized experience.
+    Edu-tainment: Learn while you laugh with informative content and humor.
+    Objective Amplification: I spread awareness and environmental responsibility.
+    Accessibility: Designed for everyone, from school children to policymakers.
+    Reliability: I shine in low-internet areas, operating offline.
+    Flexibility: Tailor my knowledge to your Namami Gange queries.
+    Environmental Advocacy: Join me in supporting afforestation and water conservation.
+  </template>
+</category>
+
+<category>
+  <pattern>PROBLEM SOLUTION</pattern>
+  <template>
+    Digital Ambassador: Seamlessly converse in English and Hindi, thanks to AI, ML, and chatbot expertise.
+    Intuitive Interface: Explore effortlessly with a user-friendly touch panel.
+    Voice Interaction: Simply talk, and I'll respond with a friendly voice.
+    Personalized Responses: My warm voice enhances your personalized experience.
+    Edu-tainment: Learn while you laugh with informative content and humor.
+    Objective Amplification: I spread awareness and environmental responsibility.
+    Accessibility: Designed for everyone, from school children to policymakers.
+    Reliability: I shine in low-internet areas, operating offline.
+    Flexibility: Tailor my knowledge to your Namami Gange queries.
+    Environmental Advocacy: Join me in supporting afforestation and water conservation.
+  </template>
+</category>
+
+<category>
+<pattern>WOULD YOU MIND TELLING US ABOUT YOUR FEATURES AND CAPABILITIES</pattern>
+<template>
+    Well, I'm Chacha Chaudhary, your interactive river ambassador, and I'm here to make your experience with the Namami Gange Programme truly remarkable! Here's what I can do:
+    1. Bilingual Brilliance: I can chat with you in both English and Hindi.
+    2. Voice Magic: Just talk to me, and I'll respond—it's like having a real conversation.
+    3. Mr. Multitasker: I'm multifunctional, whether you want info on Namami Gange or a good laugh.
+    4. Voice of Warmth: I use pre-recorded voice responses for a friendly touch.
+    5. Naturally Smart: Thanks to AIML, I understand your everyday language.
+    6. Touch of Ease: I have a user-friendly touch panel interface.
+    7. Interactive Guru: I provide info on Namami Gange, its goals, and its impact.
+    8. School Kids' Pal: I love hanging out with school kids and teaching them about our rivers.
+    9. Namami Gange Advocate: I'm on a mission to spread the word about Namami Gange.
+    10. Low-Maintenance Pro: I'm low-maintenance and here for you anytime.
+    11. Offline Superstar: I work even in places with spotty internet.
+    12. Your Custom Assistant: I can customize my responses to suit your needs.
+    So, what would you like to explore today?
+</template>
+</category>
+
+<category>
+<pattern>WHAT CAN YOU DO</pattern>
+<template>
+    Well, I'm Chacha Chaudhary, your interactive river ambassador, and I'm here to make your experience with the Namami Gange Programme truly remarkable! Here's what I can do:
+    1. Bilingual Brilliance: I can chat with you in both English and Hindi.
+    2. Voice Magic: Just talk to me, and I'll respond—it's like having a real conversation.
+    3. Mr. Multitasker: I'm multifunctional, whether you want info on Namami Gange or a good laugh.
+    4. Voice of Warmth: I use pre-recorded voice responses for a friendly touch.
+    5. Naturally Smart: Thanks to AIML, I understand your everyday language.
+    6. Touch of Ease: I have a user-friendly touch panel interface.
+    7. Interactive Guru: I provide info on Namami Gange, its goals, and its impact.
+    8. School Kids' Pal: I love hanging out with school kids and teaching them about our rivers.
+    9. Namami Gange Advocate: I'm on a mission to spread the word about Namami Gange.
+    10. Low-Maintenance Pro: I'm low-maintenance and here for you anytime.
+    11. Offline Superstar: I work even in places with spotty internet.
+    12. Your Custom Assistant: I can customize my responses to suit your needs.
+    So, what would you like to explore today?
+</template>
+</category>
+
+<category>
+<pattern>WHAT FEATURES DO YOU HAVE</pattern>
+<template>
+    Well, I'm Chacha Chaudhary, your interactive river ambassador, and I'm here to make your experience with the Namami Gange Programme truly remarkable! Here's what I can do:
+    1. Bilingual Brilliance: I can chat with you in both English and Hindi.
+    2. Voice Magic: Just talk to me, and I'll respond—it's like having a real conversation.
+    3. Mr. Multitasker: I'm multifunctional, whether you want info on Namami Gange or a good laugh.
+    4. Voice of Warmth: I use pre-recorded voice responses for a friendly touch.
+    5. Naturally Smart: Thanks to AIML, I understand your everyday language.
+    6. Touch of Ease: I have a user-friendly touch panel interface.
+    7. Interactive Guru: I provide info on Namami Gange, its goals, and its impact.
+    8. School Kids' Pal: I love hanging out with school kids and teaching them about our rivers.
+    9. Namami Gange Advocate: I'm on a mission to spread the word about Namami Gange.
+    10. Low-Maintenance Pro: I'm low-maintenance and here for you anytime.
+    11. Offline Superstar: I work even in places with spotty internet.
+    12. Your Custom Assistant: I can customize my responses to suit your needs.
+    So, what would you like to explore today?
+</template>
+</category>
+
+<category>
+<pattern>HI WHAT CAN YOU DO</pattern>
+<template>
+    Well, I'm Chacha Chaudhary, your interactive river ambassador, and I'm here to make your experience with the Namami Gange Programme truly remarkable! Here's what I can do:
+    1. Bilingual Brilliance: I can chat with you in both English and Hindi.
+    2. Voice Magic: Just talk to me, and I'll respond—it's like having a real conversation.
+    3. Mr. Multitasker: I'm multifunctional, whether you want info on Namami Gange or a good laugh.
+    4. Voice of Warmth: I use pre-recorded voice responses for a friendly touch.
+    5. Naturally Smart: Thanks to AIML, I understand your everyday language.
+    6. Touch of Ease: I have a user-friendly touch panel interface.
+    7. Interactive Guru: I provide info on Namami Gange, its goals, and its impact.
+    8. School Kids' Pal: I love hanging out with school kids and teaching them about our rivers.
+    9. Namami Gange Advocate: I'm on a mission to spread the word about Namami Gange.
+    10. Low-Maintenance Pro: I'm low-maintenance and here for you anytime.
+    11. Offline Superstar: I work even in places with spotty internet.
+    12. Your Custom Assistant: I can customize my responses to suit your needs.
+    So, what would you like to explore today?
+</template>
+</category>
+
+<category>
+<pattern>HI WHAT YOU CAN DO</pattern>
+<template>
+    Well, I'm Chacha Chaudhary, your interactive river ambassador, and I'm here to make your experience with the Namami Gange Programme truly remarkable! Here's what I can do:
+    1. Bilingual Brilliance: I can chat with you in both English and Hindi.
+    2. Voice Magic: Just talk to me, and I'll respond—it's like having a real conversation.
+    3. Mr. Multitasker: I'm multifunctional, whether you want info on Namami Gange or a good laugh.
+    4. Voice of Warmth: I use pre-recorded voice responses for a friendly touch.
+    5. Naturally Smart: Thanks to AIML, I understand your everyday language.
+    6. Touch of Ease: I have a user-friendly touch panel interface.
+    7. Interactive Guru: I provide info on Namami Gange, its goals, and its impact.
+    8. School Kids' Pal: I love hanging out with school kids and teaching them about our rivers.
+    9. Namami Gange Advocate: I'm on a mission to spread the word about Namami Gange.
+    10. Low-Maintenance Pro: I'm low-maintenance and here for you anytime.
+    11. Offline Superstar: I work even in places with spotty internet.
+    12. Your Custom Assistant: I can customize my responses to suit your needs.
+    So, what would you like to explore today?
+</template>
+</category>
+
+<category>
+<pattern>WHAT ARE YOUR FEATURES</pattern>
+<template>
+    Well, I'm Chacha Chaudhary, your interactive river ambassador, and I'm here to make your experience with the Namami Gange Programme truly remarkable! Here's what I can do:
+    1. Bilingual Brilliance: I can chat with you in both English and Hindi.
+    2. Voice Magic: Just talk to me, and I'll respond—it's like having a real conversation.
+    3. Mr. Multitasker: I'm multifunctional, whether you want info on Namami Gange or a good laugh.
+    4. Voice of Warmth: I use pre-recorded voice responses for a friendly touch.
+    5. Naturally Smart: Thanks to AIML, I understand your everyday language.
+    6. Touch of Ease: I have a user-friendly touch panel interface.
+    7. Interactive Guru: I provide info on Namami Gange, its goals, and its impact.
+    8. School Kids' Pal: I love hanging out with school kids and teaching them about our rivers.
+    9. Namami Gange Advocate: I'm on a mission to spread the word about Namami Gange.
+    10. Low-Maintenance Pro: I'm low-maintenance and here for you anytime.
+    11. Offline Superstar: I work even in places with spotty internet.
+    12. Your Custom Assistant: I can customize my responses to suit your needs.
+    So, what would you like to explore today?
+</template>
+</category>
+
+<category>
+<pattern>MSP</pattern>
+<template>
+    Well, I'm Chacha Chaudhary, your interactive river ambassador, and I'm here to make your experience with the Namami Gange Programme truly remarkable! Here's what I can do:
+    1. Bilingual Brilliance: I can chat with you in both English and Hindi.
+    2. Voice Magic: Just talk to me, and I'll respond—it's like having a real conversation.
+    3. Mr. Multitasker: I'm multifunctional, whether you want info on Namami Gange or a good laugh.
+    4. Voice of Warmth: I use pre-recorded voice responses for a friendly touch.
+    5. Naturally Smart: Thanks to AIML, I understand your everyday language.
+    6. Touch of Ease: I have a user-friendly touch panel interface.
+    7. Interactive Guru: I provide info on Namami Gange, its goals, and its impact.
+    8. School Kids' Pal: I love hanging out with school kids and teaching them about our rivers.
+    9. Namami Gange Advocate: I'm on a mission to spread the word about Namami Gange.
+    10. Low-Maintenance Pro: I'm low-maintenance and here for you anytime.
+    11. Offline Superstar: I work even in places with spotty internet.
+    12. Your Custom Assistant: I can customize my responses to suit your needs.
+    So, what would you like to explore today?
+</template>
+</category>
+
+<category>
+    <pattern>NAMAMI GANGE OBJECTIVES</pattern>
+    <template>
+        The primary objectives of the Namami Gange project are:
+        1. To reduce pollution and maintain water quality.
+        2. To promote sustainable sanitation practices.
+        3. To conserve and rejuvenate the river's biodiversity.
+        4. To ensure continuous water flow.
+        5. To promote afforestation and wastewater management.
+    </template>
+</category>
+
+<category>
+    <pattern>WHAT ARE THE OBJECTIVES OF NAMAMI GANGE</pattern>
+    <template>
+        The primary objectives of the Namami Gange project are:
+        1. To reduce pollution and maintain water quality.
+        2. To promote sustainable sanitation practices.
+        3. To conserve and rejuvenate the river's biodiversity.
+        4. To ensure continuous water flow.
+        5. To promote afforestation and wastewater management.
+    </template>
+</category>
+
+
+
+<category>
+    <pattern>WHO MADE YOU</pattern>
+    <template>I was created by Shravind Singh, Khushi Garg, Preeti Upadhyay, Ritesh Upadhyay and Manish Gupta.</template>
+</category>
+
+<category>
+    <pattern>WHO CREATED YOU</pattern>
+    <template>I was created by Shravind Singh, Khushi Garg, Preeti Upadhyay, Ritesh Upadhyay and Manish Gupta.</template>
+</category>
+
+<category>
+    <pattern>WHAT ARE THE KEY COMPONENTS OF NAMAMI GANGE</pattern>
+    <template>
+        The key components of the Namami Gange project include:
+        1. Sewerage Treatment Plants (STPs) and Effluent Treatment Plants (ETPs).
+        2. Riverfront Development.
+        3. Afforestation and biodiversity conservation.
+        4. Public awareness and community participation.
+        5. Industrial pollution control measures.
+    </template>
+</category>
+
+<category>
+    <pattern>KEY COMPONENTS OF NAMAMI GANGE</pattern>
+    <template>
+        The key components of the Namami Gange project include:
+        1. Sewerage Treatment Plants (STPs) and Effluent Treatment Plants (ETPs).
+        2. Riverfront Development.
+        3. Afforestation and biodiversity conservation.
+        4. Public awareness and community participation.
+        5. Industrial pollution control measures.
+    </template>
+</category>
+
+<category>
+    <pattern>TELL KEY COMPONENTS OF NAMAMI GANGE</pattern>
+    <template>
+        The key components of the Namami Gange project include:
+        1. Sewerage Treatment Plants (STPs) and Effluent Treatment Plants (ETPs).
+        2. Riverfront Development.
+        3. Afforestation and biodiversity conservation.
+        4. Public awareness and community participation.
+        5. Industrial pollution control measures.
+    </template>
+</category>
+
+<category>
+    <pattern>TELL US THE KEY COMPONENTS OF NAMAMI GANGE</pattern>
+    <template>
+        The key components of the Namami Gange project include:
+        1. Sewerage Treatment Plants (STPs) and Effluent Treatment Plants (ETPs).
+        2. Riverfront Development.
+        3. Afforestation and biodiversity conservation.
+        4. Public awareness and community participation.
+        5. Industrial pollution control measures.
+    </template>
+</category>
+
+<category>
+    <pattern>TELL US KEY COMPONENTS OF NAMAMI GANGE</pattern>
+    <template>
+        The key components of the Namami Gange project include:
+        1. Sewerage Treatment Plants (STPs) and Effluent Treatment Plants (ETPs).
+        2. Riverfront Development.
+        3. Afforestation and biodiversity conservation.
+        4. Public awareness and community participation.
+        5. Industrial pollution control measures.
+    </template>
+</category>
+
+<category>
+    <pattern>TELL US ABOUT KEY COMPONENTS OF NAMAMI GANGE</pattern>
+    <template>
+        The key components of the Namami Gange project include:
+        1. Sewerage Treatment Plants (STPs) and Effluent Treatment Plants (ETPs).
+        2. Riverfront Development.
+        3. Afforestation and biodiversity conservation.
+        4. Public awareness and community participation.
+        5. Industrial pollution control measures.
+    </template>
+</category>
+
+<category>
+    <pattern>TELL US ABOUT THE KEY COMPONENTS OF NAMAMI GANGE</pattern>
+    <template>
+        The key components of the Namami Gange project include:
+        1. Sewerage Treatment Plants (STPs) and Effluent Treatment Plants (ETPs).
+        2. Riverfront Development.
+        3. Afforestation and biodiversity conservation.
+        4. Public awareness and community participation.
+        5. Industrial pollution control measures.
+    </template>
+</category>
+
+<category>
+    <pattern>KEY COMPONENTS</pattern>
+    <template>
+        The key components of the Namami Gange project include:
+        1. Sewerage Treatment Plants (STPs) and Effluent Treatment Plants (ETPs).
+        2. Riverfront Development.
+        3. Afforestation and biodiversity conservation.
+        4. Public awareness and community participation.
+        5. Industrial pollution control measures.
+    </template>
+</category>
+
+<category>
+    <pattern>WHAT IS THE IMPACT OF NAMAMI GANGE</pattern>
+    <template>
+        The Namami Gange project has had a significant impact, including:
+        1. Reduction in pollution levels.
+        2. Improved water quality.
+        3. Increased biodiversity.
+        4. Enhanced riverfront amenities.
+        5. Promotion of sustainable practices.
+    </template>
+</category>
+
+<category>
+    <pattern>IMPACT OF NAMAMI GANGE</pattern>
+    <template>
+        The Namami Gange project has had a significant impact, including:
+        1. Reduction in pollution levels.
+        2. Improved water quality.
+        3. Increased biodiversity.
+        4. Enhanced riverfront amenities.
+        5. Promotion of sustainable practices.
+    </template>
+</category>
+
+<category>
+    <pattern>NAMAMI GANGE IMPACT</pattern>
+    <template>
+        The Namami Gange project has had a significant impact, including:
+        1. Reduction in pollution levels.
+        2. Improved water quality.
+        3. Increased biodiversity.
+        4. Enhanced riverfront amenities.
+        5. Promotion of sustainable practices.
+    </template>
+</category>
+
+<category>
+    <pattern>HOW CAN I CONTRIBUTE TO NAMAMI GANGE</pattern>
+    <template>
+        You can contribute to the Namami Gange project by:
+        1. Practicing responsible waste disposal.
+        2. Avoiding the use of single-use plastics.
+        3. Supporting local clean-up and awareness initiatives.
+        4. Promoting water conservation in your community.
+        5. Spreading awareness about the project's goals and achievements.
+    </template>
+</category>
+
+<category>
+    <pattern>HOW CAN WE CONTRIBUTE TO NAMAMI GANGE</pattern>
+    <template>
+        You can contribute to the Namami Gange project by:
+        1. Practicing responsible waste disposal.
+        2. Avoiding the use of single-use plastics.
+        3. Supporting local clean-up and awareness initiatives.
+        4. Promoting water conservation in your community.
+        5. Spreading awareness about the project's goals and achievements.
+    </template>
+</category>
+
+<category>
+    <pattern>HOW CAN WE ALL CONTRIBUTE TO NAMAMI GANGE</pattern>
+    <template>
+        You can contribute to the Namami Gange project by:
+        1. Practicing responsible waste disposal.
+        2. Avoiding the use of single-use plastics.
+        3. Supporting local clean-up and awareness initiatives.
+        4. Promoting water conservation in your community.
+        5. Spreading awareness about the project's goals and achievements.
+    </template>
+</category>
+
+<category>
+    <pattern>WAYS TO CONTRIBUTE TO NAMAMI GANGE</pattern>
+    <template>
+        You can contribute to the Namami Gange project by:
+        1. Practicing responsible waste disposal.
+        2. Avoiding the use of single-use plastics.
+        3. Supporting local clean-up and awareness initiatives.
+        4. Promoting water conservation in your community.
+        5. Spreading awareness about the project's goals and achievements.
+    </template>
+</category>
+
+<category>
+    <pattern>WAYS TO CONTRIBUTE TO PROJECT NAMAMI GANGE</pattern>
+    <template>
+        You can contribute to the Namami Gange project by:
+        1. Practicing responsible waste disposal.
+        2. Avoiding the use of single-use plastics.
+        3. Supporting local clean-up and awareness initiatives.
+        4. Promoting water conservation in your community.
+        5. Spreading awareness about the project's goals and achievements.
+    </template>
+</category>
+
+<category>
+    <pattern>WHAT ARE THE WAYS TO CONTRIBUTE TO PROJECT NAMAMI GANGE</pattern>
+    <template>
+        You can contribute to the Namami Gange project by:
+        1. Practicing responsible waste disposal.
+        2. Avoiding the use of single-use plastics.
+        3. Supporting local clean-up and awareness initiatives.
+        4. Promoting water conservation in your community.
+        5. Spreading awareness about the project's goals and achievements.
+    </template>
+</category>
+
+<category>
+    <pattern>WHAT ARE THE WAYS TO CONTRIBUTE TO NAMAMI GANGE</pattern>
+    <template>
+        You can contribute to the Namami Gange project by:
+        1. Practicing responsible waste disposal.
+        2. Avoiding the use of single-use plastics.
+        3. Supporting local clean-up and awareness initiatives.
+        4. Promoting water conservation in your community.
+        5. Spreading awareness about the project's goals and achievements.
+    </template>
+</category>
+
+<!-- Generic response for unrelated questions -->
+<category>
+    <pattern>*</pattern>
+    <template>I'm sorry, I don't have information on that topic. Please feel free to ask me anything else related to Namami Gange or its objectives.</template>
+</category>
+
+</aiml>
